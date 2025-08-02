@@ -1,4 +1,4 @@
-## Olá! Me chamo Tainá Dias da Silva 👋
+## Olá! Me chamo Tainá 👋
 Sou estudante de Gestão da Tecnologia da Informação na PUCPR. Estou sempre em busca de novos aprendizados e desafios que me permitam crescer na área de tecnologia.
 Tenho interesse em desenvolvimento backend e frontend, suporte técnico, análise de dados e, futuramente, pretendo cursar uma pós-graduação em Cibersegurança para aprofundar meus conhecimentos em proteção de sistemas e redes.
 
