@@ -20,7 +20,7 @@ Tenho interesse em desenvolvimento backend e frontend, suporte técnico, anális
 ## 🔭 Projetos acadêmicos:
 - Sistema de biblioteca em Java com POO, filas e HashMaps
 - Dashboards interativos com Power BI
-- Monitoramento de temperatura e umidade com ESP32 e Python-
+- Monitoramento de temperatura e umidade com ESP32 e Python
 - Sistema de inscrição básico em Python
 
 ## 🤝 Buscando colaborar em:
