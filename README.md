@@ -12,7 +12,7 @@ Tenho interesse em desenvolvimento backend e frontend, suporte técnico, anális
   <img align="center" alt="Tai-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Tai-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Tai-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Tai-Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Tai-Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Tai-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
@@ -25,8 +25,8 @@ Tenho interesse em desenvolvimento backend e frontend, suporte técnico, anális
 
 ## 🤝 Buscando colaborar em:
 - Desenvolvimento web.
-- Java, JavaScript ou Python
-- Análise de dados.
+- PHP, HTML, CSS, MySQL e JS
+
   
 ## 📫 Como falar comigo:
 - 📧 tainasilva2501@gmail.com
