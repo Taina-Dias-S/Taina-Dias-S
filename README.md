@@ -31,5 +31,3 @@ Tenho interesse em desenvolvimento backend e frontend e futuramente pretendo cur
 ## 📫 Como falar comigo:
 - 📧 tainasilva2501@gmail.com
 
-## ⚡ Curiosidade: 
-Já trabalhei em uma sala VIP de aeroporto, o que me ensinou muito sobre empatia, agilidade e trabalho em equipe!
